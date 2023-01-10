@@ -1,6 +1,7 @@
 package test;
 
 public enum RANKING {
+	HIGHCARD(14),
     ONEPAIR(15),
     TWOPAIR(16),
     THREEOFAKIND(17),
